@@ -1,0 +1,42 @@
+{
+    "author": "no@spam.com (none)",
+    "description": "On the 19th of March, 26 students and 4 teachers from ODAC took bumboat from Changi jetty to Tanjong Pengelih jetty, Johore, Malaysia to embark on our 2 days 1 night ODAC Desaru Cycling Expedition...",
+    "lastBuildDate": "Mon, 25 Mar 2013 10:47:06 SGT",
+    "link": "Link : http://www.dhs.sg/mar-19-odac-cycling-expedition-2013-desaru-2.html",
+    "title": "Mar 19: ODAC Cycling Expedition 2013, Desaru"
+}
+{
+    "author": "no@spam.com (none)",
+    "description": "Dunman High School Library Society held its inaugural Book Club Event on the 19th of March, 2013...",
+    "lastBuildDate": "Wed, 20 Mar 2013 11:04:12 SGT",
+    "link": "Link : http://www.dhs.sg/mar-19-library-book-club-2.html",
+    "title": "Mar 19: Library Book Club"
+}
+{
+    "author": "no@spam.com (none)",
+    "description": "Dunman High School was very honoured to have hosted the social enterprise and an alumni of DHS, Mdm Sim Sin Sin...",
+    "lastBuildDate": "Thu, 28 Mar 2013 16:57:22 SGT",
+    "link": "Link : http://www.dhs.sg/mar-15-dialogue-session-with-mdm-sim-2.html",
+    "title": "Mar 15: Dialogue Session with Mdm Sim"
+}
+{
+    "author": "no@spam.com (none)",
+    "description": "The Dunman High School Service Learning Symposium has come a long way since its inception. It has grown significantly over the years, positively impacting more students and promoting volunteerism that benefits society at large... ",
+    "lastBuildDate": "Wed, 20 Mar 2013 11:01:41 SGT",
+    "link": "Link : http://www.dhs.sg/mar-13-service-learning-symposium-2013-2.html",
+    "title": "Mar 13: Service Learning Symposium 2013"
+}
+{
+    "author": "no@spam.com (none)",
+    "description": "13th March 2013 was a special day for 120 Rivervale Primary 6 students as they stepped into the Dunman High School campus...",
+    "lastBuildDate": "Mon, 18 Mar 2013 10:14:36 SGT",
+    "link": "Link : http://www.dhs.sg/mar-13-school-visit-by-rivervale-primary-school-2.html",
+    "title": "Mar 13: School Visit by Rivervale Primary School"
+}
+{
+    "author": "no@spam.com (none)",
+    "description": "Dunman High School is pleased to announce that this year we have two teams that have been awarded the \u2018Merit\u2019 Award...",
+    "lastBuildDate": "Mon, 25 Mar 2013 10:44:15 SGT",
+    "link": "Link : http://www.dhs.sg/mar-07-sdma-2013-ceremony-2.html",
+    "title": "Mar 07: SDMA 2013 Ceremony"
+}

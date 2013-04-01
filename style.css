@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+div {
+    display: block;
+    background-color: white;
+    border-radius: 9px;
+    width: 1200px;
+    margin-left: 60px;
+    margin-top: 25px;
+    color: black;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;    }
+
+.title {
+    text-align: center;
+    font-size: 23.5px;
+    font-style: bold;
+    font-family:"Times New Roman", Times, serif;
+    }
+
+a {
+    text-decoration: none;
+    margin-left: 20px;
+    }
+
+a:hover {
+    text-decoration: underline;
+    }
+
+h2 {
+    margin-left: 7px;
+    font-size: 19px;
+    }
+
+.lastbd {
+    text-align: right;
+    margin-right: 4px;
+    font-size: 15px;
+    }
+
+.author {
+    text-align: right;
+    margin-right: 4px;
+    font-size: 17px;
+    }
