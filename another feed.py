@@ -3,7 +3,7 @@ import urllib.request
 import re
 import json
 
-response = urllib.request.urlopen("http://www.dhs.sg/rss/what%2527s-new%3F-19.xml")
+response = urllib.request.urlopen("http://www.newsisfree.com/HPE/xml/feeds/85/2085.xml")
 xml = response.read()
 
 # get all XML as a string
@@ -73,9 +73,9 @@ file.write("</body>\n")
 file.write("</html>\n")
 file.close()
 try :
-    file=open("json.json","w")
+    file=open("json.txt","w")
 except :
-    file=open("json.json","x")
+    file=open("json.txt","x")
 for s in range(1,len(js)):
     file.write(str(js[s]))
     file.write('\n')
